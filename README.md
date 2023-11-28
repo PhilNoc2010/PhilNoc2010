@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Phil
 - 👀 I’m interested in coding, gaming, improv comedy, and the MCU
-- 🌱 I’m currently learning full stack MERN through the Coding Dojo
+- 🌱 I’m currently learning C# through the Coding Dojo
 
 
 <!---
