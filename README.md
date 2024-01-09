@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Phil
 - 👀 I’m interested in coding, gaming, improv comedy, and the MCU
-- 🌱 I’m currently learning C# through the Coding Dojo
+- 🌱 I’ve recently completed the Coding Dojo bootcamp, focusing on Full Stack Development in Python, Javascript (MERN), and C#.
 
 
 <!---
